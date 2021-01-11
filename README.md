@@ -1,10 +1,11 @@
 <h2> Hi there, I'm Aleix Cubel </h2>
 
-<p><em> Business Administration studies at <a href="https://www.ub.edu/web/portal/en/">Universitat de Barcelona </a>
-</br> Big Data & Analytics Bootcamp at <a href="https://keepcoding.io/"> KeepCoding </a>
-</br> Currently studying Economics at <a href="https://www.uoc.edu/portal/en/index.html"> Universitat Oberta de Catalunya </a>
-</br> Data Analyst at<a href="http://www.antaivb.com/"> Antai Venture Builder</a>
-</em></p>
+<p>
+    Studied <em> Business Administration </em> at <a href="https://www.ub.edu/web/portal/en/"> Universitat de Barcelona </a>
+    </br>Followed by a<em> Big Data & Analytics Bootcamp </em> at <a href="https://keepcoding.io/"> KeepCoding </a>
+    </br> At the moment, studying <em> Economics </em>  at <a href="https://www.uoc.edu/portal/en/index.html"> Universitat Oberta de Catalunya </a>
+    </br> And working as <em> Data Analyst </em> at <a href="http://www.antaivb.com/"> Antai Venture Builder </a>
+</p>
 
 
 [![Linkedin: aleix-cubel](https://img.shields.io/badge/-aleixcubel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aleix-cubel/)](https://www.linkedin.com/in/aleix-cubel/)
