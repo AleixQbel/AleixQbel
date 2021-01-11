@@ -18,7 +18,7 @@ class Aleix:
     
     code = 'Python, R, SQL'
     tools = 'tableau, powerBI, git, bash, cloud, dbt'
-    IDE = 'jupyter notebooks, VSCode'
+    devenv = 'jupyter notebooks, VSCode'
     skills = 'statistics, analytics, visualization, machine learning'
     challenges = 'mastering Python, learn dbt & reading 24 books this year'
         
