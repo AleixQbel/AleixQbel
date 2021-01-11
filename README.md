@@ -7,11 +7,11 @@
 </em></p>
 
 
-[![Linkedin: aleix-cubel](https://img.shields.io/badge/-aleix-cubel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aleix-cubel/)](https://www.linkedin.com/in/aleix-cubel/)
+[![Linkedin: aleix-cubel](https://img.shields.io/badge/-aleixcubel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aleix-cubel/)](https://www.linkedin.com/in/aleix-cubel/)
 [![GitHub aleixqbel](https://img.shields.io/github/followers/AleixQbel?label=follow&style=social)](https://github.com/AleixQbel)
 
 
-### A little spark of myself!  
+### A little bit about myself!  
 
 ```python
 class Aleix: 
@@ -28,8 +28,6 @@ class Aleix:
 
 
 ### And about AntaiVB!
-
-
 
 [AntaiVB](http://www.antaivb.com/) is an international venture builder, who thrives in analyzing different markets in order to find proven-working business ideas, and once identified, establish them in other markets.
 
